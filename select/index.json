@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "罪と罰 祈らざる者よ",
+  "base_artist": "高橋洋子",
+  "createdAt": "2026-03-13T10:23:02.520058Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "罪と罰 祈らざる者よ",
+      "artist": "Yoko Takahashi",
+      "has_synced": true,
+      "path": "select/01_罪と罰_祈らざる者よ_Yoko_Takahashi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "罪と罰 祈らざる者よ",
+      "artist": "高橋洋子",
+      "has_synced": true,
+      "path": "select/02_罪と罰_祈らざる者よ_高橋洋子.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "罪と罰 祈らざる者よ [instrumental]",
+      "artist": "高橋洋子",
+      "has_synced": true,
+      "path": "select/03_罪と罰_祈らざる者よ_[instrumental]_高橋洋子.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "罪と罰 祈らざる者よ",
+      "artist": "高橋 洋子",
+      "has_synced": false,
+      "path": "select/pl_01_罪と罰_祈らざる者よ_高橋_洋子.txt"
+    }
+  ]
+}
